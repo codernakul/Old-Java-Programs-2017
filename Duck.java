@@ -1,5 +1,6 @@
 class Duck
 {
+//hello
     void main(int n)
     {
         int i,r,c=0;
